@@ -9,7 +9,7 @@ public class Competition {
         Team teamB = new Team();
 
         teamA.teamName = "Microsoft";
-        teamB.teamName = "Apple";
+        teamB.teamName = "Apples";
 
         teamA.p1.name = "Samuele";
         teamA.p1.programmingLanguage = "Java";
